@@ -18,8 +18,17 @@ php祭り2011の成果をgithubにて残そうかと思います。
   インストールし、既存のPHPUnitのテストコードに対して試しに走らせた
   ※スクリーンショットをコミット
 
-5. SymfonyのSecurity
+5. Symfony2のSecurityサンプル
 
-   Symfony2のススメ1 ～認証とともに～
-   http://tech.voyagegroup.com/archives/4395318.html
-   を試してみる
+  Symfony2のススメ1 ～認証とともに～
+  http://tech.voyagegroup.com/archives/4395318.html
+  を試してみる
+
+6. Symfony2のSecurityのドキュメントを読む
+
+  先ほどの記事の元になった
+  セキュリティ | Symfony2日本語ドキュメント
+  http://docs.symfony.gr.jp/symfony2/book/security.html
+  を読む
+
+

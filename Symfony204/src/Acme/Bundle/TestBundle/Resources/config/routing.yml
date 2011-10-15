@@ -1,0 +1,7 @@
+AcmeTestBundle_homepage:
+    pattern:  /hello2/{name}
+    defaults: { _controller: AcmeTestBundle:Default:index }
+
+AcmeTestBundle_post:
+    resource: "@AcmeTestBundle/Resources/config/routing/post.yml"
+    prefix:  /post

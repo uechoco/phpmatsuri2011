@@ -1,0 +1,30 @@
+post:
+    pattern:  /
+    defaults: { _controller: "AcmeTestBundle:Post:index" }
+
+post_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AcmeTestBundle:Post:show" }
+
+post_new:
+    pattern:  /new
+    defaults: { _controller: "AcmeTestBundle:Post:new" }
+
+post_create:
+    pattern:  /create
+    defaults: { _controller: "AcmeTestBundle:Post:create" }
+    requirements: { _method: post }
+
+post_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "AcmeTestBundle:Post:edit" }
+
+post_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "AcmeTestBundle:Post:update" }
+    requirements: { _method: post }
+
+post_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "AcmeTestBundle:Post:delete" }
+    requirements: { _method: post }

@@ -1,3 +1,15 @@
 yando さんの ハッカソンのの話を受けて、
 php祭り2011の成果をgithubにて残そうかと思います。
 
+1. Symfony2.0.4
+
+  Symfony2ワークショップのブログサンプルをコミット
+
+2. CakePHP 2.0 RC3
+
+  CakePHP 2.0 blog tutorial (Cakebookに載っているもの)をコミット
+
+3. Lithium 0.10
+
+  Lithium 0.10 quickstart の ブログポストサンプルをコミット
+

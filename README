@@ -13,3 +13,8 @@ php祭り2011の成果をgithubにて残そうかと思います。
 
   Lithium 0.10 quickstart の ブログポストサンプルをコミット
 
+4. Stagehand_TestRunner
+
+  インストールし、既存のPHPUnitのテストコードに対して試しに走らせた
+  ※スクリーンショットをコミット
+

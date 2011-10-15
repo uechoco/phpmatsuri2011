@@ -1,0 +1,13 @@
+login:
+  pattern:  /user/login
+  defaults: { _controller: AcmeSecurityBundle:Security:login }
+
+login_check:
+  pattern:  /user/login_check
+
+logout:
+  pattern:  /user/logout
+
+user:
+  pattern:  /user/{name}
+  defaults: { _controller: AcmeSiteBundle:Default:index }

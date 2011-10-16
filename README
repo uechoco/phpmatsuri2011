@@ -31,4 +31,9 @@ php祭り2011の成果をgithubにて残そうかと思います。
   http://docs.symfony.gr.jp/symfony2/book/security.html
   を読む
 
+7. FOSUserBundleのドキュメント翻訳
+
+  FriendsOfSymfony/FOSUserBundle/Resources/doc/overriding_forms.md の翻訳
+  https://github.com/uechoco/sf2-bundles-doc-ja/commit/44b8a6b3733e8fd12f8fdd86c6aa8772f42f7302
+
 
